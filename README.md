@@ -30,16 +30,6 @@ Here are some of the technologies I use regularly:
 
 ---
 
-## 🤝 Get In Touch
-- Email: your-email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
-- Website / Portfolio: https://your-website.example
-
-(Replace placeholders with your real contact links. If you prefer privacy, remove personal contact info.)
-
----
-
 ## ✨ How you can support / collaborate
 - Star repositories you find useful
 - Open issues or PRs on projects you'd like to improve
