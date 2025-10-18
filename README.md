@@ -37,8 +37,4 @@ Here are some of the technologies I use regularly:
 
 ---
 
-Thanks for visiting — feel free to follow and say hi! If you want, I can:
-- Customize the copy (tone, details about projects)
-- Auto-generate project entries based on your repos
-- Add more badges (languages, followers, sponsorship links)
-Tell me which one you want and I’ll update the README accordingly.
+Thanks for visiting — feel free to follow and say hi!
